@@ -6,12 +6,15 @@
 
 ### 💻Languages
 
-* [![Java][Java]][Java-url]
-* [![Python][Python]][Python-url]
+ [![Java][Java]][Java-url]
+ [![Python][Python]][Python-url]
 
-### 📚Currently Learning
-[![React][React.js]][React-url]
+### 📚Language Currently Learning
+![JavaScript]
 
+### 📊Frameworks Currently Learning
+![Springboot]
+[![React][React.js]][React-url] 
 
 
 
@@ -30,3 +33,5 @@ Nicholas Wernicki - Wernickin@gmail.com
 [Python-url]: https://www.python.org
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[Springboot]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
