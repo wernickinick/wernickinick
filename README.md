@@ -8,13 +8,10 @@
 
  [![Java][Java]][Java-url]
  [![Python][Python]][Python-url]
-
-### 📚Language Currently Learning
-![JavaScript]
-
-### 📊Frameworks Currently Learning
-![Springboot]
 [![React][React.js]][React-url] 
+![html]
+![css]
+![JavaScript]
 
 
 
@@ -35,3 +32,5 @@ Nicholas Wernicki - Wernickin@gmail.com
 [React-url]: https://reactjs.org/
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [Springboot]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
+[html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[css]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
