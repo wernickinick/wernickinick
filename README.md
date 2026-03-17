@@ -12,8 +12,7 @@
 ![html]
 ![css]
 ![JavaScript]
-
-
+![C++]
 
 <!-- CONTACT -->
 ## 📲Contact
@@ -34,3 +33,4 @@ Nicholas Wernicki - Wernickin@gmail.com
 [Springboot]: https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white
 [html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[C++]: https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white
